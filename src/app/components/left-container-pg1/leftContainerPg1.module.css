@@ -1,0 +1,15 @@
+.image {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 5px solid black;
+}
+
+.dev {
+  font-family: "Jaro";
+  font-size: 24px;
+  color: black;
+  text-align: center;
+  margin-top: 8vh;
+}

@@ -1,0 +1,24 @@
+.title1 {
+  font-family: "Coolvetica";
+  font-size: 200px;
+  font-style: italic;
+  color: rgb(245 158 11);
+}
+
+.title2 {
+  font-family: "CocogooseProTrial";
+  font-size: 200px;
+  line-height: 20px;
+  color: rgb(245 158 11);
+}
+
+.status {
+  font-family: "Jaro";
+  font-size: 24px;
+}
+
+.statusContainer {
+  position: absolute;
+  top: 45%;
+  color: rgb(245 158 11);
+}
