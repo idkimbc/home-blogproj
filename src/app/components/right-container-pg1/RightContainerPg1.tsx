@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./rightContainerPg1.module.css";
 
-function RightContainer() {
+function RightContainerPg1() {
   return (
     <div className="h-screen bg-black relative">
       <div className="w-[100%] text-right absolute top-[-80px]">
@@ -27,4 +27,4 @@ function RightContainer() {
   );
 }
 
-export default RightContainer;
+export default RightContainerPg1;

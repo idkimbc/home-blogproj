@@ -2,7 +2,7 @@ import React from "react";
 import styles from "./leftContainerPg1.module.css";
 import Image from "next/image";
 
-function LeftContainer() {
+function LeftContainerPg1() {
   return (
     <div>
       <div className="h-screen bg-amber-500 relative p-20 flex justify-center items-center flex-col">
@@ -23,4 +23,4 @@ function LeftContainer() {
   );
 }
 
-export default LeftContainer;
+export default LeftContainerPg1;
